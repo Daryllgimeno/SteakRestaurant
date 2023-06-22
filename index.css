@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Main {
+  background-image: url("forbackground.jpg");
+  background-size: cover;
+  height: 100vh; 
+}
+
+.Navigation {
+  position: fixed;
+  height: 80px;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.Navigation ul {
+  float: right;
+  margin-right: 20px;
+}
+
+.Navigation ul li {
+  list-style: none;
+  margin: 0 8px;
+  display: inline-block;
+  line-height: 80px;
+}
+
+.Navigation ul li a {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  padding: 6px 13px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  background-color: #333;
+  border-radius: 4px;
+}
+
+.Navigation ul li a:hover {
+  background-color: #555;
+}
+
+.MainContent {
+  position: absolute;
+  left: 50%;
+  top: 55%;
+  transform: translate(-50%, -50%);
+  font-family: Georgia, serif;
+  font-size: 50px;
+  letter-spacing: 5px;
+  word-spacing: 5px;
+  color: #fff;
+  font-weight: 800;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: small-caps;
+  text-transform: uppercase;
+  -webkit-text-stroke: 1px;
+  text-shadow: 1px;
+  border: 2px solid #a4a4a4;
+}
