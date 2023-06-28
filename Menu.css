@@ -50,6 +50,7 @@ text-transform: none;
 content{
     margin-top: 15px;
     padding: 0px;
+
 }
 
 .First{
@@ -91,15 +92,18 @@ text-align: justify;
 }
 
 .First img{
-	width:50%;
-	height:auto;
-	border-radius: 25px;
-	transform:scale(1) rotate(0deg);
-	transition:all .5s linear;
-	-webkit-border-radius: 25px;
-	-moz-border-radius: 25px;
-	-ms-border-radius: 25px;
-	-o-border-radius: 25px;
+	width: 50%;
+  height: auto;
+  border-radius: 25px;
+  transform: scale(1) rotate(0deg);
+  transition: all .5s linear;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .Second{
@@ -141,15 +145,18 @@ text-align: justify;
 }
 
 .Second img{
-	width:50%;
-	height:auto;
-	border-radius: 25px;
-	transform:scale(1) rotate(0deg);
-	transition:all .5s linear;
-	-webkit-border-radius: 25px;
-	-moz-border-radius: 25px;
-	-ms-border-radius: 25px;
-	-o-border-radius: 25px;
+	width: 50%;
+  height: auto;
+  border-radius: 25px;
+  transform: scale(1) rotate(0deg);
+  transition: all .5s linear;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .Third{
@@ -191,15 +198,18 @@ text-align: justify;
 }
 
 .Third img{
-	width:50%;
-	height:auto;
-	border-radius: 25px;
-	transform:scale(1) rotate(0deg);
-	transition:all .5s linear;
-	-webkit-border-radius: 25px;
-	-moz-border-radius: 25px;
-	-ms-border-radius: 25px;
-	-o-border-radius: 25px;
+	width: 50%;
+  height: auto;
+  border-radius: 25px;
+  transform: scale(1) rotate(0deg);
+  transition: all .5s linear;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .Fourt{
@@ -241,15 +251,18 @@ text-align: justify;
 }
 
 .Fourt img{
-	width:50%;
-	height:auto;
-	border-radius: 25px;
-	transform:scale(1) rotate(0deg);
-	transition:all .5s linear;
-	-webkit-border-radius: 25px;
-	-moz-border-radius: 25px;
-	-ms-border-radius: 25px;
-	-o-border-radius: 25px;
+	width: 50%;
+  height: auto;
+  border-radius: 25px;
+  transform: scale(1) rotate(0deg);
+  transition: all .5s linear;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -297,15 +310,18 @@ text-align: justify;
 }
 
 .Fifth img{
-	width:50%;
-	height:auto;
-	border-radius: 25px;
-	transform:scale(1) rotate(0deg);
-	transition:all .5s linear;
-	-webkit-border-radius: 25px;
-	-moz-border-radius: 25px;
-	-ms-border-radius: 25px;
-	-o-border-radius: 25px;
+	width: 25%;
+  height: auto;
+  border-radius: 25px;
+  transform: scale(1) rotate(0deg);
+  transition: all .5s linear;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -349,15 +365,18 @@ text-align: justify;
 }
 
 .Sixth img{
-	width:50%;
-	height:auto;
-	border-radius: 25px;
-	transform:scale(1) rotate(0deg);
-	transition:all .5s linear;
-	-webkit-border-radius: 25px;
-	-moz-border-radius: 25px;
-	-ms-border-radius: 25px;
-	-o-border-radius: 25px;
+	width: 25%;
+  height: auto;
+  border-radius: 25px;
+  transform: scale(1) rotate(0deg);
+  transition: all .5s linear;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .card {
