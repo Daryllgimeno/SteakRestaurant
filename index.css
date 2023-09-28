@@ -5,13 +5,12 @@
   padding: 0;
 }
 
+
 .Main {
   background-image: linear-gradient(to bottom, rgba(52, 152, 219, 0.5), rgba(231, 76, 60, 0.5)), url("forbackground.jpg"); /* Gradient background with opacity */
   background-size: cover;
   height: 100vh;
 }
-
-
 .Navigation {
   position: fixed;
   height: 100px;
@@ -66,3 +65,5 @@
   text-shadow: 1px;
   border: 2px solid #a4a4a4;
 }
+
+

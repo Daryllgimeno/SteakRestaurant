@@ -124,27 +124,27 @@
 
 
 
-<div class="card">
+<div class="card" id="card">
   <span class="title">Contact for Order</span>
-  <form class="form">
+  <form class="form" id="orderForm">
     <div class="group">
-      <input placeholder="‎" type="text" required="">
+      <input type="text" id="name" placeholder="" required>
       <label for="name">Name</label>
     </div>
     <div class="group">
-      <input placeholder="‎" type="email" id="email" name="Contact Number" required="">
-      <label for="email">Contact Number</label>
+      <input type="tel" id="contactNumber" placeholder="" required>
+      <label for="contactNumber">Contact Number</label>
     </div>
     <div class="group">
-      <textarea placeholder="‎" id="Order" name="Order" rows="5" required=""></textarea>
-      <label for="Order">Order</label>
+      <textarea id="order" placeholder="" rows="5" required></textarea>
+      <label for="order">Order</label>
     </div>
     <button type="submit">Submit</button>
   </form>
-</div>
-
+  <script src="script.js"></script>
     
 
+</div>
 
 
 
