@@ -11,4 +11,5 @@ document.getElementById('card').addEventListener('submit', function(event) {
       console.log('Order:', order);
 
       document.getElementById('orderForm').reset();
+      alert("Confirm")
     });
